@@ -31,7 +31,6 @@ interface Props {
 import { Separator } from "../ui/separator";
 
 import "../../styles/index.css";
-import { Button } from "../ui/button";
 
 export const Footer = () => {
   return (
