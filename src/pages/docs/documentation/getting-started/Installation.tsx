@@ -2,12 +2,6 @@ import { Sidebar } from "@/components/ui/sidebar";
 import { Layout } from "@/components/layout/Layout";
 import { Navbar } from "@/components/layout/Nav";
 
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
 import { Next } from "../../components/ui/NextPage";
 
 export const Documentation_Installation = () => {
